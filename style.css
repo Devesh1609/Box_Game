@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+#main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.rect{
+    display: flex;
+   
+}
+.shape{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    font-family: 'montserrat';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#sq3{
+    background-color: rgb(255,255,255);
+    
+}
+
